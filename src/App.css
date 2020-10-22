@@ -1,38 +1,65 @@
-.App {
-  text-align: center;
+.title {
+    text-align: center;
+    color: rgb(65, 61, 61);
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.Icon {
+    position: relative;
+    top: 5px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.Drawer {
+    height: 300px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.b2onLogo {
+    width: 10rem;
 }
 
-.App-link {
-  color: #61dafb;
+.Content {
+    background-color: rgb(226, 222, 222);
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.navBar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navLinks {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    
+}
+
+.navLinks li {
+    margin-right: 4rem;
+    list-style: none;
+}
+
+.Link {
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+    display: block;
+    padding: 5px;
+}
+
+
+.accountLogin {
+    margin-right: 30px;
+}
+
+.Switch {
+    margin-top: 6rem;
+ }
+
+@media screen and (min-width: 720px) {
+
+.Switch {
+   margin-left: 10rem;
+
+}
+
 }

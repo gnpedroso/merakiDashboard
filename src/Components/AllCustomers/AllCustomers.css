@@ -1,0 +1,33 @@
+.Icon {
+    position: relative;
+    top: 5px;
+}
+
+.Loading {
+    width: 8rem;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
+
+.orange {
+    color: rgb(241, 165, 24);
+}
+
+.red {
+    color: rgb(252, 6, 6);
+}
+
+.green {
+    color: rgb(10, 175, 10);
+}
+
+.Danger {
+    color: red;
+}
+
+.Check {
+    color: green;
+}
+
+

@@ -1,0 +1,27 @@
+.filterContainer {
+    margin-top: 20px;
+    margin-bottom: 30px;
+    text-align: left;
+}
+
+#companies {
+    background-color: transparent;
+}
+
+.searchIcon {
+    position: relative;
+    top: 5px;
+}
+
+.Filter { 
+    width: 300px;
+    padding: 15px;
+}
+
+#companies {
+    width: 125px;
+    height: 30px;
+    border: none;
+    outline: none;
+    border-bottom: 2px solid rgb(88, 86, 86);
+}

@@ -1,0 +1,1399 @@
+[
+    {
+        "company": "Empresa1",
+        "error": false,
+        "results": [
+            {
+                "expirationDate": "2020-10-26T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-10-26T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-10-26T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-10-26T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-10-26T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2021-04-26T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2021-01-25T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2021-01-25T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2021-01-25T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2021-01-25T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2021-01-25T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2021-01-28T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2021-01-28T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2021-01-28T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-11-11T00:46:05Z",
+                "licenseType": "MX100-SEC",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-11-11T00:46:05Z",
+                "licenseType": "MX100-SEC",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-11-11T00:46:05Z",
+                "licenseType": "MV-SEN",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-11-11T00:46:05Z",
+                "licenseType": "MV-SEN",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-11-11T00:46:05Z",
+                "licenseType": "MV-SEN",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-11-11T00:46:05Z",
+                "licenseType": "MX100-SEC",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-11-11T00:46:05Z",
+                "licenseType": "MX100-SEC",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-12-26T00:46:05Z",
+                "licenseType": "MX68-SEC",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-12-26T00:46:05Z",
+                "licenseType": "MX68-SEC",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2024-11-26T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2024-11-26T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2024-11-26T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2024-11-26T00:46:05Z",
+                "licenseType": "MS210-48LP",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2024-11-26T00:46:05Z",
+                "licenseType": "MS210-48LP",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2024-11-26T00:46:05Z",
+                "licenseType": "MS120-48LP",
+                "state": "active"
+            }
+        ]
+    },
+    {
+        "company": "Empresa2",
+        "error": false,
+        "results": [
+            {
+                "expirationDate": "2020-10-26T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-10-26T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-10-26T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-10-26T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-10-26T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-10-26T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-10-26T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-10-24T00:46:05Z",
+                "licenseType": "MX68-SEC",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-10-24T00:46:05Z",
+                "licenseType": "MX68-SEC",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-10-24T00:46:05Z",
+                "licenseType": "MX68-SEC",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-11-11T00:46:05Z",
+                "licenseType": "MX100-SEC",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-11-11T00:46:05Z",
+                "licenseType": "MX100-SEC",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-11-11T00:46:05Z",
+                "licenseType": "MS210-48LP",
+                "state": "active"
+            }
+        ]
+    },
+    {
+        "company": "Empresa3",
+        "error": false,
+        "results": [
+            {
+                "expirationDate": "2020-12-26T00:46:05Z",
+                "licenseType": "MX100-SEC",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-12-26T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-11-11T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-11-11T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            }
+        ]
+    },
+    {
+        "company": "Empresa4",
+        "error": false,
+        "results": [
+            {
+                "expirationDate": "2020-10-31T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-10-31T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-12-10T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2023-12-10T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            }
+        ]
+
+    },
+    {
+        "company": "Empresa5",
+        "error": false,
+        "results": [
+            {
+                "expirationDate": "2020-10-26T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-10-26T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-10-26T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-12-12T00:46:05Z",
+                "licenseType": "MV-SEN",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-12-12T00:46:05Z",
+                "licenseType": "MV-SEN",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2024-12-12T00:46:05Z",
+                "licenseType": "MX100-SEC",
+                "state": "active"
+            }
+        ]
+
+    },
+    {
+        "company": "Empresa6",
+        "error": false,
+        "results": [
+            {
+                "expirationDate": "2020-10-26T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-10-26T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-12-10T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2022-12-10T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            }
+        ]
+
+    },
+    {
+        "company": "Empresa7",
+        "error": false,
+        "results": [
+            {
+                "expirationDate": "2020-10-26T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-10-26T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-10-26T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-12-12T00:46:05Z",
+                "licenseType": "MV-SEN",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-12-29T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },            
+            {
+                "expirationDate": "2020-12-29T00:46:05Z",
+                "licenseType": "MX100-SEC",
+                "state": "active"
+            },            
+            {
+                "expirationDate": "2020-12-29T00:46:05Z",
+                "licenseType": "MX100-SEC",
+                "state": "active"
+            },            {
+                "expirationDate": "2021-01-15T00:46:05Z",
+                "licenseType": "MX100-SEC",
+                "state": "active"
+            },
+            {        
+                "expirationDate": "2021-01-15T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {        
+                "expirationDate": "2021-01-15T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {        
+                "expirationDate": "2021-01-15T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {        
+                "expirationDate": "2021-01-15T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2024-06-12T00:46:05Z",
+                "licenseType": "MV-SEN",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2024-06-12T00:46:05Z",
+                "licenseType": "MX100-SEC",
+                "state": "active"
+            }
+        ]
+
+    },
+    {
+        "company": "Empresa8",
+        "error": false,
+        "results": [
+            {
+                "expirationDate": "2020-10-26T00:46:05Z",
+                "licenseType": "MX100-SEC",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-10-26T00:46:05Z",
+                "licenseType": "MX64-SEC",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-11-11T00:46:05Z",
+                "licenseType": "MX64-SEC",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-11-11T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2021-01-25T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2021-01-25T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {            
+                "expirationDate": "2021-01-25T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            }
+        ]
+    },
+    {
+        "company": "Empresa9",
+        "error": false,
+        "results": [
+            {
+                "expirationDate": "2020-10-26T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-10-26T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-12-10T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2021-01-25T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2021-01-25T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2021-01-25T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2023-12-10T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            }
+        ]
+
+    },
+    {
+        "company": "Empresa10",
+        "error": false,
+        "results": [
+            {
+                "expirationDate": "2020-10-26T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-10-26T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-10-26T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-10-26T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-10-26T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2021-04-26T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2021-04-26T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2021-04-26T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-11-11T00:46:05Z",
+                "licenseType": "MX100-SEC",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-11-11T00:46:05Z",
+                "licenseType": "MX100-SEC",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-11-11T00:46:05Z",
+                "licenseType": "MV-SEN",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-11-11T00:46:05Z",
+                "licenseType": "MV-SEN",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-11-11T00:46:05Z",
+                "licenseType": "MV-SEN",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-11-11T00:46:05Z",
+                "licenseType": "MX100-SEC",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-11-11T00:46:05Z",
+                "licenseType": "MX100-SEC",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-11-26T00:46:05Z",
+                "licenseType": "MX68-SEC",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-11-26T00:46:05Z",
+                "licenseType": "MX68-SEC",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2024-03-12T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2024-03-12T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2024-03-26T00:46:05Z",
+                "licenseType": "MS210-48LP",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2024-03-26T00:46:05Z",
+                "licenseType": "MS120-48LP",
+                "state": "active"
+            }
+        ]
+    },
+    {
+        "company": "Empresa11",
+        "error": false,
+        "results": [
+            {
+                "expirationDate": "2020-10-27T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-10-27T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-10-27T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-10-27T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-10-27T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-10-26T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-10-26T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-11-19T00:46:05Z",
+                "licenseType": "MX68-SEC",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-11-19T00:46:05Z",
+                "licenseType": "MX68-SEC",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-11-19T00:46:05Z",
+                "licenseType": "MX68-SEC",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-11-11T00:46:05Z",
+                "licenseType": "MX100-SEC",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-11-11T00:46:05Z",
+                "licenseType": "MX100-SEC",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-11-11T00:46:05Z",
+                "licenseType": "MS210-48LP",
+                "state": "active"
+            }
+        ]
+    },
+    {
+        "company": "Empresa12",
+        "error": false,
+        "results": [
+            {
+                "expirationDate": "2020-12-26T00:46:05Z",
+                "licenseType": "MX100-SEC",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-12-26T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-11-11T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-11-11T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            }
+        ]
+    },
+    {
+        "company": "Empresa13",
+        "error": false,
+        "results": [
+            {
+                "expirationDate": "2020-10-26T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-10-26T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-12-10T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2023-12-10T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            }
+        ]
+
+    },
+    {
+        "company": "Empresa14",
+        "error": false,
+        "results": [
+            {
+                "expirationDate": "2020-10-30T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-10-30T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-10-30T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-12-12T00:46:05Z",
+                "licenseType": "MV-SEN",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-12-12T00:46:05Z",
+                "licenseType": "MV-SEN",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2024-12-12T00:46:05Z",
+                "licenseType": "MX100-SEC",
+                "state": "active"
+            }
+        ]
+
+    },
+    {
+        "company": "Empresa15",
+        "error": false,
+        "results": [
+            {
+                "expirationDate": "2020-10-26T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-10-26T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-12-10T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2022-12-10T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2022-12-10T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2022-12-10T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2022-12-10T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            }
+        ]
+
+    },
+    {
+        "company": "Empresa16",
+        "error": false,
+        "results": [
+            {
+                "expirationDate": "2020-10-28T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-10-28T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-10-28T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-12-12T00:46:05Z",
+                "licenseType": "MV-SEN",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2024-06-12T00:46:05Z",
+                "licenseType": "MV-SEN",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2024-06-12T00:46:05Z",
+                "licenseType": "MX100-SEC",
+                "state": "active"
+            }
+        ]
+
+    },
+    {
+        "company": "Empresa17",
+        "error": false,
+        "results": [
+            {
+                "expirationDate": "2020-11-09T00:46:05Z",
+                "licenseType": "MX100-SEC",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-11-09T00:46:05Z",
+                "licenseType": "MX64-SEC",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-11-11T00:46:05Z",
+                "licenseType": "MX64-SEC",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-11-11T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            }
+        ]
+    },
+    {
+        "company": "Empresa18",
+        "error": false,
+        "results": [
+            {
+                "expirationDate": "2020-10-26T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-10-26T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-12-10T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2023-12-10T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            }
+        ]
+
+    },
+    {
+        "company": "Empresa19",
+        "error": false,
+        "results": [
+            {
+                "expirationDate": "2020-12-26T00:46:05Z",
+                "licenseType": "MX100-SEC",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-12-26T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-12-30T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2021-03-03T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            }
+        ]
+    },
+    {
+        "company": "Empresa20",
+        "error": false,
+        "results": [
+            {
+                "expirationDate": "2020-10-26T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-10-26T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-12-10T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2023-12-10T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            }
+        ]
+
+    },
+    {
+        "company": "Empresa21",
+        "error": false,
+        "results": [
+            {
+                "expirationDate": "2020-10-30T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-10-30T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-10-30T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-12-12T00:46:05Z",
+                "licenseType": "MV-SEN",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2023-12-12T00:46:05Z",
+                "licenseType": "MV-SEN",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2024-12-12T00:46:05Z",
+                "licenseType": "MX100-SEC",
+                "state": "active"
+            }
+        ]
+    },
+    {
+        "company": "Empresa22",
+        "error": false,
+        "results": [
+            {
+                "expirationDate": "2020-10-26T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-10-26T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-12-10T00:46:05Z",
+                "licenseType": "MS210-48LP",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-12-10T00:46:05Z",
+                "licenseType": "MS210-48LP",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2022-12-10T00:46:05Z",
+                "licenseType": "MS210-48LP",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2022-12-10T00:46:05Z",
+                "licenseType": "MX68-SEC",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2022-12-10T00:46:05Z",
+                "licenseType": "MX68-SEC",
+                "state": "active"
+            }
+        ]
+
+    },
+    {
+        "company": "Empresa23",
+        "error": false,
+        "results": [
+            {
+                "expirationDate": "2020-10-30T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-10-30T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-10-30T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2021-05-13T00:46:05Z",
+                "licenseType": "MV-SEN",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2024-06-12T00:46:05Z",
+                "licenseType": "MV-SEN",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2024-06-12T00:46:05Z",
+                "licenseType": "MX100-SEC",
+                "state": "active"
+            }
+        ]
+
+    },
+    {
+        "company": "Empresa24",
+        "error": false,
+        "results": [
+            {
+                "expirationDate": "2020-10-27T00:46:05Z",
+                "licenseType": "MX100-SEC",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-10-27T00:46:05Z",
+                "licenseType": "MX64-SEC",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-11-11T00:46:05Z",
+                "licenseType": "MX64-SEC",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-11-11T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-11-11T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-11-11T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-12-21T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-12-21T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            }
+        ]
+    },
+    {
+        "company": "Empresa25",
+        "error": false,
+        "results": [
+            {
+                "expirationDate": "2020-10-21T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-10-21T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-10-30T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-10-30T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-12-12T00:46:05Z",
+                "licenseType": "MV-SEN",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2023-12-12T00:46:05Z",
+                "licenseType": "MV-SEN",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2024-12-12T00:46:05Z",
+                "licenseType": "MX100-SEC",
+                "state": "active"
+            }
+        ]
+    },
+    {
+        "company": "Empresa27",
+        "error": false,
+        "results": [
+            {
+                "expirationDate": "2020-10-26T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-10-26T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-12-10T00:46:05Z",
+                "licenseType": "MS210-48LP",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2021-12-10T00:46:05Z",
+                "licenseType": "MS210-48LP",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2022-06-10T00:46:05Z",
+                "licenseType": "MS210-48LP",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2022-06-10T00:46:05Z",
+                "licenseType": "MX68-SEC",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2024-12-10T00:46:05Z",
+                "licenseType": "MX68-SEC",
+                "state": "active"
+            }
+        ]
+
+    },
+    {
+        "company": "Empresa28",
+        "error": false,
+        "results": [
+            {
+                "expirationDate": "2020-10-21T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-10-21T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-10-21T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2021-05-13T00:46:05Z",
+                "licenseType": "MV-SEN",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2022-06-12T00:46:05Z",
+                "licenseType": "MV-SEN",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2024-06-12T00:46:05Z",
+                "licenseType": "MX100-SEC",
+                "state": "active"
+            }
+        ]
+
+    },
+    {
+        "company": "Empresa29",
+        "error": false,
+        "results": [
+            {
+                "expirationDate": "2020-10-26T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-10-26T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-12-10T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2022-12-10T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            }
+        ]
+
+    },
+    {
+        "company": "Empresa30",
+        "error": false,
+        "results": [
+            {
+                "expirationDate": "2020-10-26T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-10-26T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-10-26T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-12-12T00:46:05Z",
+                "licenseType": "MV-SEN",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2024-06-12T00:46:05Z",
+                "licenseType": "MV-SEN",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2024-06-12T00:46:05Z",
+                "licenseType": "MX100-SEC",
+                "state": "active"
+            }
+        ]
+
+    },
+    {
+        "company": "Empresa31",
+        "error": false,
+        "results": [
+            {
+                "expirationDate": "2020-10-26T00:46:05Z",
+                "licenseType": "MX100-SEC",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-10-26T00:46:05Z",
+                "licenseType": "MX100-SEC",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-10-26T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-10-31T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-10-31T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-11-23T00:46:05Z",
+                "licenseType": "MX64-SEC",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-11-11T00:46:05Z",
+                "licenseType": "MX64-SEC",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-11-11T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            }
+        ]
+    },
+    {
+        "company": "Empresa32",
+        "error": false,
+        "results": [
+            {
+                "expirationDate": "2020-10-26T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-10-26T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-12-10T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-12-10T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2020-12-10T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2023-12-10T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2023-12-10T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2023-12-10T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            },
+            {
+                "expirationDate": "2023-12-10T00:46:05Z",
+                "licenseType": "ENT",
+                "state": "active"
+            }
+        ]
+    }
+]

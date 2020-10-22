@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Market List</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+        integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
+        integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+        integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+        crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
+        integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
+        crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css"
+        integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/style.css" />
+
+    <style>
+
+    </style>
+
+</head>
+
+<body>
+
+
+    <script>
+        const cleanData = [
+            {
+                company: "xablito",
+                results: [
+                    {
+                        expirationDate: "2020-04-26T00:46:05Z",
+                        licenseType: 'ENT'
+                    },
+                    {
+                        expirationDate: "2024-04-26T00:46:05Z",
+                        licenseType: 'ENT'
+                    },
+                    {
+                        expirationDate: "2024-04-26T00:46:05Z",
+                        licenseType: 'ENT'
+                    },
+                    {
+                        expirationDate: "2024-04-26T00:46:05Z",
+                        licenseType: 'ENT'
+                    },
+                    {
+                        expirationDate: "2024-04-26T00:46:05Z",
+                        licenseType: 'ENT'
+                    },
+                    {
+                        expirationDate: "2024-04-26T00:46:05Z",
+                        licenseType: "MX250-SEC"
+                    },
+                    {
+                        expirationDate: "2024-04-26T00:46:05Z",
+                        licenseType: "MX250-SEC"
+                    },
+                    {
+                        expirationDate: "2021-11-28T13:03:34Z",
+                        licenseType: "MX250-SEC"
+                    },
+                    {
+                        expirationDate: "2021-11-28T13:03:34Z",
+                        licenseType: "MS210-48LP"
+                    },
+                    {
+                        expirationDate: "2021-11-28T13:03:34Z",
+                        licenseType: "MS210-48LP"
+                    },
+                    {
+                        expirationDate: "2021-11-28T13:03:34Z",
+                        licenseType: "MS210-48LP"
+                    },
+                    {
+                        expirationDate: "2021-11-28T13:03:34Z",
+                        licenseType: "MS210-48LP"
+                    },
+                    {
+                        expirationDate: "2021-11-28T13:03:34Z",
+                        licenseType: "MS210-48LP"
+                    },
+                    {
+                        expirationDate: "2021-11-28T13:03:34Z",
+                        licenseType: "MS210-48LP"
+                    }
+                ]
+            },
+            {
+                company: "xablau",
+                results: [
+                    {
+                        expirationDate: "2021-11-28T13:03:34Z",
+                        licenseType: "MX250-SEC"
+                    },
+                    {
+                        expirationDate: "2021-11-28T13:03:34Z",
+                        licenseType: "MX250-SEC"
+                    },
+                    {
+                        expirationDate: "2021-11-28T13:03:34Z",
+                        licenseType: "MX250-SEC"
+                    },
+                    {
+                        expirationDate: "2021-11-28T13:03:34Z",
+                        licenseType: 'ENT'
+                    },
+                    {
+                        expirationDate: "2021-11-28T13:03:34Z",
+                        licenseType: 'ENT'
+                    },
+                    {
+                        expirationDate: "2024-04-26T00:46:05Z",
+                        licenseType: 'ENT'
+                    },
+                    {
+                        expirationDate: "2021-11-28T13:03:34Z",
+                        licenseType: "MX250-SEC"
+                    },
+                    {
+                        expirationDate: "2021-11-28T13:03:34Z",
+                        licenseType: "MS210-48LP"
+                    },
+                    {
+                        expirationDate: "2021-11-28T13:03:34Z",
+                        licenseType: "MS210-48LP"
+                    },
+                    {
+                        expirationDate: "2021-11-28T13:03:34Z",
+                        licenseType: "MS210-48LP"
+                    },
+                    {
+                        expirationDate: "2021-11-28T13:03:34Z",
+                        licenseType: "MS210-48LP"
+                    },
+                    {
+                        expirationDate: "2021-11-28T13:03:34Z",
+                        licenseType: "MS210-48LP"
+                    },
+                    {
+                        expirationDate: "2021-11-28T13:03:34Z",
+                        licenseType: "ENT"
+                    }
+                ]
+            }
+        ]
+
+
+        // PARA O CRITICAL LICENSES:
+        const outputData = Object.values(cleanData.reduce((obj, curr) => {
+            obj[curr.company] = Object.values(curr.results.reduce((data, { licenseType, expirationDate }) => {
+                // generate the key based on what is the group
+                const key = licenseType + expirationDate;
+                //have we seen it, if not create record
+                if (!data[key])
+                    data[key] = { licenseType, expirationDate, qty: 0, company: curr.company, state: curr.state };
+                // update quantity
+                data[key].qty++;
+                return data;
+            }, {}));
+            return obj;
+        }, {})).flat();
+
+        console.log(outputData);
+        // -------------------------------------------------------------------------------------------
+
+        // PARA ALL CUSTOMERS:
+
+        // const outputData = Object.entries(cleanData.reduce((obj, curr) => {
+        //     obj[curr.company] = Object.values(curr.results.reduce((data, { licenseType, expirationDate, state }) => {
+        //         const key = licenseType + expirationDate;
+        //         if (!data[key])
+        //             data[key] = { licenseType, expirationDate, qty: 0, company: curr.company, state };
+        //         data[key].qty++;
+        //         return data;
+        //     }, {}));
+        //     return obj;
+        // }, {}));
+
+        // console.log(outputData)
+
+
+
+
+
+
+
+    </script>
+
+
+
+
+
+</body>
+
+</html>

@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+    overflow-x: hidden;
+}
+
+
+.B2On {
+    color: #ff7e00;
+}
+
+.Cards {
+    padding: 60px;
+}
+
+.MuiGrid-spacing-xs-3 > .MuiGrid-item {
+    margin: 30px;
+}
+
+.Clientes {
+    border-bottom: 10px solid #ff7e00;
+    
+}
+
+.Licensas {
+    border-bottom: 10px solid #ff7e00;
+}
+
+.Expirar {
+    border-bottom: 10px solid #ff7e00;
+}
